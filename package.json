@@ -2,7 +2,7 @@
   "name": "unit-testing-2-example",
   "version": "1.0.0",
   "description": "unit testing example for epam course",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
